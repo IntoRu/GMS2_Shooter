@@ -1,0 +1,1 @@
+global.diagFrase = "Отличная работа"
