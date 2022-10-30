@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Ob_upgrade",
+  "name": "Ob_upShSpeed",
   "spriteId": {
     "name": "Sp_upgrade",
     "path": "sprites/Sp_upgrade/Sp_upgrade.yy",

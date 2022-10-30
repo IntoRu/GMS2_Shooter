@@ -61,7 +61,7 @@
     {"id":{"name":"Sp_aim","path":"sprites/Sp_aim/Sp_aim.yy",},"order":12,},
     {"id":{"name":"Sp_door2","path":"sprites/Sp_door2/Sp_door2.yy",},"order":16,},
     {"id":{"name":"Ob_spawner2","path":"objects/Ob_spawner2/Ob_spawner2.yy",},"order":16,},
-    {"id":{"name":"Ob_upgrade","path":"objects/Ob_upgrade/Ob_upgrade.yy",},"order":18,},
+    {"id":{"name":"Ob_upShSpeed","path":"objects/Ob_upShSpeed/Ob_upShSpeed.yy",},"order":18,},
     {"id":{"name":"Ob_door2","path":"objects/Ob_door2/Ob_door2.yy",},"order":7,},
     {"id":{"name":"boss","path":"sounds/boss/boss.yy",},"order":6,},
     {"id":{"name":"Sp_bullet","path":"sprites/Sp_bullet/Sp_bullet.yy",},"order":3,},

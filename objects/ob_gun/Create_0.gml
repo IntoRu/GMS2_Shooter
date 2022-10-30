@@ -1,9 +1,12 @@
 // обьект должен находится в комнате
 
 // урон данного оружия
-attack = 1
-normal = 10
-shootingSpeed = normal
+normalAttack = 1 // это для обгрейда
+attack = normalAttack
+
+// скорострельность
+normalShoot = 10 // это для обгрейда
+shootingSpeed = normalShoot
 
 
 
