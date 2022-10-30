@@ -1,0 +1,1 @@
+upgaradeSpeed = 5

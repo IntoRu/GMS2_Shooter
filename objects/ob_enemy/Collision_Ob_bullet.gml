@@ -1,4 +1,4 @@
-hp -= Ob_player.attack
+hp -= Ob_gun.attack
 ScreenShake(2,10) // тряска экрана при уроне
 if(hp<=0){
 	audio_play_sound(a_death,1,false) // проигрываем звук смерти

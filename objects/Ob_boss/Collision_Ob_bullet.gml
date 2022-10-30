@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-hp -= Ob_player.attack
+hp -= Ob_gun.attack
 
 ScreenShake(2,10) // тряска экрана при уроне
 

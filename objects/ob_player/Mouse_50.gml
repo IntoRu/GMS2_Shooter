@@ -6,7 +6,7 @@ if(weapon = true and ping = 0 and !instance_exists(Ob_dialog)){ // если ор
 	//instance_create_depth(x+lengthdir_x(30,gunAngle),y+lengthdir_y(30,gunAngle),1,Ob_bullet) // спавним пулю для дробовика
 	//instance_create_depth(x+lengthdir_x(30,gunAngle),y+lengthdir_y(30,gunAngle),1,Ob_bullet) // спавним пулю для дробовика
 	ping = 1 // запрещаем стрелять
-	alarm[0] = 10// темп стрельбы 10 мс
+	alarm[0] = Ob_gun.shootingSpeed// темп стрельбы 10 мс
 	
 	
 	//создаём самопальные частицы дульного пламени

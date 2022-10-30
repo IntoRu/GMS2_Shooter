@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Ob_gun",
+  "name": "Ob_upgrade",
   "spriteId": {
-    "name": "Sp_gun",
-    "path": "sprites/Sp_gun/Sp_gun.yy",
+    "name": "Sp_upgrade",
+    "path": "sprites/Sp_upgrade/Sp_upgrade.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,0 +1,1 @@
+Ob_gun.shootingSpeed = Ob_gun.normal
