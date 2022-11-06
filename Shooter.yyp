@@ -4,6 +4,7 @@
   "name": "Shooter",
   "resources": [
     {"id":{"name":"Sp_door1","path":"sprites/Sp_door1/Sp_door1.yy",},"order":15,},
+    {"id":{"name":"ob_filter","path":"objects/ob_filter/ob_filter.yy",},"order":19,},
     {"id":{"name":"Ob_door1","path":"objects/Ob_door1/Ob_door1.yy",},"order":6,},
     {"id":{"name":"a_bullet","path":"sounds/a_bullet/a_bullet.yy",},"order":0,},
     {"id":{"name":"T_d1","path":"timelines/T_d1/T_d1.yy",},"order":0,},
@@ -12,7 +13,6 @@
     {"id":{"name":"T_d2","path":"timelines/T_d2/T_d2.yy",},"order":1,},
     {"id":{"name":"Sp_monsterBackFont","path":"sprites/Sp_monsterBackFont/Sp_monsterBackFont.yy",},"order":28,},
     {"id":{"name":"Sp_dullFaer","path":"sprites/Sp_dullFaer/Sp_dullFaer.yy",},"order":23,},
-    {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},"order":15,},
     {"id":{"name":"Sp_collision","path":"sprites/Sp_collision/Sp_collision.yy",},"order":11,},
     {"id":{"name":"Ob_dialog","path":"objects/Ob_dialog/Ob_dialog.yy",},"order":10,},
     {"id":{"name":"Ob_menedger","path":"objects/Ob_menedger/Ob_menedger.yy",},"order":9,},

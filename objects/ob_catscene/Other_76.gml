@@ -9,3 +9,4 @@ audio_play_sound(boss,1,true) // проигрываем звук зомби
 
 
 
+
