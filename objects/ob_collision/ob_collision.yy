@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Ob_collision",
   "spriteId": {
     "name": "Sp_collision",
     "path": "sprites/Sp_collision/Sp_collision.yy",
@@ -31,8 +34,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Ob_collision",
-  "tags": [],
-  "resourceType": "GMObject",
 }

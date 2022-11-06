@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Ob_door1",
   "spriteId": {
     "name": "Sp_door1",
     "path": "sprites/Sp_door1/Sp_door1.yy",
@@ -31,8 +34,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "Ob_door1",
-  "tags": [],
-  "resourceType": "GMObject",
 }
