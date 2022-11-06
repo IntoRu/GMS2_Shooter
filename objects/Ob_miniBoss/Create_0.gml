@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-spd = 1 // скорость
-hp = 5
+spd = 1.5 // скорость
+hp = 7
 
 // для рандомного выпадения опгрейдов
 randomize()

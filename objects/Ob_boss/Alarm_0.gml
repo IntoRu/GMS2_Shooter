@@ -3,7 +3,7 @@
 
 
 	instance_create_depth(x+irandom_range(30,100),y+irandom_range(30,100),0,Ob_miniBoss)
-	alarm[0] = 60
+	alarm[0] = 180
 
 
 

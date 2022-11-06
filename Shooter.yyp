@@ -11,6 +11,7 @@
     {"id":{"name":"Ob_player","path":"objects/Ob_player/Ob_player.yy",},"order":0,},
     {"id":{"name":"a_death","path":"sounds/a_death/a_death.yy",},"order":1,},
     {"id":{"name":"T_d2","path":"timelines/T_d2/T_d2.yy",},"order":1,},
+    {"id":{"name":"Sp_effect","path":"sprites/Sp_effect/Sp_effect.yy",},"order":33,},
     {"id":{"name":"Sp_monsterBackFont","path":"sprites/Sp_monsterBackFont/Sp_monsterBackFont.yy",},"order":28,},
     {"id":{"name":"Sp_dullFaer","path":"sprites/Sp_dullFaer/Sp_dullFaer.yy",},"order":23,},
     {"id":{"name":"Sp_collision","path":"sprites/Sp_collision/Sp_collision.yy",},"order":11,},
